@@ -13,6 +13,8 @@ public class testlogic {
 	System.out.println(obj.geti());
 	System.out.println(obj.geti());
 	System.out.println(obj.geti());
+	System.out.println("shivangi");
+	System.out.println("kano");
 	}
 
 }
