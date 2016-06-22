@@ -11,11 +11,8 @@ public class testlogic {
 	{
 	Get obj=new Get();
 	System.out.println(obj.geti());
-	System.out.println(obj.geti());
-	System.out.println(obj.geti());
-	System.out.println("shivangi");
-	System.out.println("kano");
-	System.out.println("arunima");
+	System.out.println("finally a success");
+	
 	}
 
 }
